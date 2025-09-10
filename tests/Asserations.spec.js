@@ -16,4 +16,4 @@ test('Login demo', async ({ page }) => {
     await page.getByRole('link', { name: 'Sign in' }).click();
 
 
-});
+})
